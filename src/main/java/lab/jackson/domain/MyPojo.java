@@ -1,11 +1,7 @@
 package lab.jackson.domain;
 
-import lab.jackson.mapper.PojoMapper;
 
-import java.io.FileReader;
-import java.io.FileWriter;
 import java.util.Date;
-import java.util.HashMap;
 import java.util.Map;
 
 /**

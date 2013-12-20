@@ -1,4 +1,4 @@
-package lab.jackson.mapper;
+package lab.jackson;
 
 import com.fasterxml.jackson.core.JsonFactory;
 import com.fasterxml.jackson.core.JsonGenerationException;

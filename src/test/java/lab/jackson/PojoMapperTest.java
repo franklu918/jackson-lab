@@ -1,7 +1,6 @@
 package lab.jackson;
 
 import lab.jackson.domain.MyPojo;
-import lab.jackson.mapper.PojoMapper;
 import org.junit.Test;
 
 import java.io.FileReader;
